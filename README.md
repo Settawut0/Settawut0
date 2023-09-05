@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Settawut0
+👋 Hi, I’m @Settawut0
 
 <!---
 Settawut0/Settawut0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
