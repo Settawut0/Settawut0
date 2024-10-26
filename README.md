@@ -1,4 +1,4 @@
-👋 Hi, I’m Settawut
+👋 Hi, I’m Sattavut but u can call Pluem. I'm Software Engineer 🎄
 
 <!---
 Settawut0/Settawut0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
